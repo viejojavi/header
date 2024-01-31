@@ -9,11 +9,11 @@ fi
 
 printf "Welcome to %s (%s %s %s)\n" "$DISTRIB_DESCRIPTION" "$(uname -o)" "$(uname -r)" "$(uname -m)"
 echo " "
-echo "##########################################"
+echo "############################################"
 echo "##                                        ##"
 echo "##        Creado por Oscar Castillo       ##"
 echo "##        Consultor de telecomuniaciones  ##"
 echo "##        Contacto (+57) 3007081170       ##"
 echo "##                                        ##"
-echo "##########################################"
+echo "############################################"
 echo " "
